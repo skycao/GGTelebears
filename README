@@ -1,0 +1,9 @@
+My project for the CSUA Hackathon. I was not able to complete it.
+
+The basic idea is that given a set of classes to be taken, recommend which
+classes to Phase I and which to Phase II. At the hackathon, I wrote three files,
+website.html, website.css, and website.js. The html and css is near complete,
+but the js file is essentially 0% complete. I realized with six hours to go
+that to make a dynamic website, I would have to learn some server-side programming.
+My attempts in the next six hours were unsuccessful. On the bright side, I do 
+have another project, namely learn server-side programming.
