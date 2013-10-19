@@ -1,0 +1,39 @@
+html {
+    background-color: #fbfbfb;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    letter-spacing: 2.5px;
+    background-color: #fbfbfb;
+    color: #333;
+    text-align: center;
+}
+
+.pagetitle {
+    width: 1300px;
+    height: 50px;
+    margin: auto;
+    margin-top: 200px;
+    font-size: 30pt;
+    color: #660099;
+    color: skyblue;
+}
+
+.input p {
+    color: #440011;
+}
+
+#inputbox {
+    width: 300px;
+    height: 30px;
+}
+
+#button {
+    width: 70px;
+    height: 40px;
+    font-size: 100%;
+    background-color: skyblue;
+    border-radius: 7px;
+}
+
+.added {
+    color: #440011;
+}
